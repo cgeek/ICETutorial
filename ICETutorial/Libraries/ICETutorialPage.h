@@ -6,8 +6,11 @@
 //  Copyright (c) 2014 https://github.com/icepat/ICETutorial. All rights reserved.
 //
 
-@import Foundation;
-@import UIKit;
+//@import Foundation;
+//@import UIKit;
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @interface ICETutorialLabelStyle : NSObject
 
